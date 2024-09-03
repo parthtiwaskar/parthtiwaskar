@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @parthtiwaskar
 - 👀 I’m interested in codiing ,ai ml,ds
-- 🌱 I’m currently learning c,html,python
+- 🌱 I’m currently learning c,c++,html,python
 - 💞️ I’m looking to collaborate on projects 
 - 📫 to reach me my email is parthtiwaskar123@gmail.com
 - 😄 Pronouns: he/his
