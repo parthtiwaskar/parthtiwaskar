@@ -2,7 +2,7 @@
 - 👀 I’m interested in codiing ,ai ml,ds
 - 🌱 I’m currently learning c,c++,html,python,react native , react js , node js,type script
 - 💞️ I’m looking to collaborate on projects 
-- 📫 to reach me my email is parthtiwaskar123@gmail.com
+- 📫 to reach me my email is parth.tiwaskar.batch2024@sitnagpur.siu.edu.in
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: i am new to this community
 
